@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp API Manager",
+  "description": "A web application to manage instances of a WhatsApp Web API, allowing users to connect, disconnect, retrieve QR codes, and monitor the status of their instances.",
+  "requestFramePermissions": []
+}
